@@ -1,0 +1,6 @@
+gymnasium
+tqdm
+numpy
+torch
+collections
+matplotlib
